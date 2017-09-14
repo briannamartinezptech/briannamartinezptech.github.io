@@ -1,0 +1,130 @@
+*{
+  list-style-type: none;
+}
+/*  Contact Me Sign */
+.contact{
+  background-color: black;
+  text-align: center;
+  color:white;
+  font-size: 4em;
+  padding: .01em;
+}
+.contact hr{
+  max-width: 100%;
+}
+
+
+
+/* Navigation*/
+.wrap1{
+  width: 70%;
+  margin: auto;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.wrap{
+  width: 90%;
+  margin: auto;
+}
+
+.name{
+  text-align: center;
+  width:40%;
+  margin: auto;
+}
+
+.name h2{
+  font-family: 'Mr De Haviland', cursive;
+  font-size: 4em;
+  line-height: .7em;
+  padding-top: .8em;
+}
+
+.nav{
+  width:80%;
+  margin: auto;
+  text-align: center;
+}
+.navigation{
+  margin-top: 2em;
+}
+.navigation h3, .navigation a{
+  font-family: Arial;
+  font-size: 1em;
+}
+a:link, a:visited{
+  color:black;
+}
+
+a:hover{
+  color:grey;
+}
+
+/*  Welcome Sign */
+.welcome{
+  background-color: black;
+  text-align: center;
+  color:white;
+  font-size: 4em;
+  padding: .01em;
+}
+.welcome hr{
+  max-width: 100%;
+}
+
+}
+/*  Main */
+.wrap3{
+  width: 70%;
+  margin: .5em auto;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+.main .row{
+  padding: 3em 0;
+}
+
+/*footer*/
+.footer{
+  text-align: center;
+}
+.footer .row{
+  padding-bottom: 1em;
+}
+
+.footer img{
+  width: 2em;
+  height:2em;
+}
+.wrap2{
+  width: 70%;
+
+  margin: .5em auto;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+/*  Education Sign */
+.education{
+  background-color: black;
+  text-align: center;
+  color:white;
+  font-size: 4em;
+  padding: .01em;
+}
+.education hr{
+  max-width: 100%;
+
+}/*  Work Samples Sign */
+.work{
+  background-color: black;
+  text-align: center;
+  color:white;
+  font-size: 4em;
+  padding: .01em;
+}
+.work hr{
+  max-width: 100%;
+}
